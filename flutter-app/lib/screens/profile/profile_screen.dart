@@ -11,7 +11,6 @@ class ProfileScreen extends ConsumerWidget {
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     final profile = ref.watch(userProfileProvider);
-    final notifier = ref.read(userProfileProvider.notifier);
 
     return MainNavScaffold(
       currentIndex: 3,

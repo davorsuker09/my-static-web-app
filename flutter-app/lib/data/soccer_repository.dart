@@ -1,6 +1,5 @@
 import 'package:hive/hive.dart';
 
-import '../models/enums.dart';
 import '../models/league.dart';
 import '../models/search_filters.dart';
 import '../models/tournament.dart';

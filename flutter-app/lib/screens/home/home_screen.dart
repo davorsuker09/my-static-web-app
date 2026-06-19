@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 
+import '../../models/enums.dart';
 import '../../providers/providers.dart';
 import '../../widgets/league_card.dart';
 import '../../widgets/main_nav_scaffold.dart';

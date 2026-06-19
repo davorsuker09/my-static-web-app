@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:intl/intl.dart';
 
+import '../../models/enums.dart';
 import '../../providers/providers.dart';
 
 class TournamentDetailsScreen extends ConsumerWidget {

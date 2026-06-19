@@ -3,6 +3,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 
 import '../data/mock_data.dart';
+import '../models/enums.dart';
 import '../models/league.dart';
 import '../providers/providers.dart';
 
